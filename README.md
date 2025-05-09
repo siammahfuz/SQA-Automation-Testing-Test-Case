@@ -51,7 +51,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/SQA-Automation-Testing-Test-Case.git
+git clone https://github.com/siammahfuz/SQA-Automation-Testing-Test-Case
 cd SQA-Automation-Testing-Test-Case
 Install the required dependencies for your testing framework:
 
